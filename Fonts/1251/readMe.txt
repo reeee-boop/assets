@@ -1,0 +1,1 @@
+this font is based on capital(uppercase) letters only.
